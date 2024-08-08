@@ -1,0 +1,25 @@
+table {
+    margin: 50px auto 0 auto;
+    width: 60%;
+    min-width: 300px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+th,td{
+    text-align: center;
+}
+
+th,td{
+    padding: 5px;
+}
+
+.cor-fundo{
+    background-color: rgb(240,248,255);
+}
+
+.esquerda{
+    text-align: left;
+}
